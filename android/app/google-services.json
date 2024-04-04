@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913403942081",
+    "project_id": "fir-fe660",
+    "storage_bucket": "fir-fe660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913403942081:android:a50355319154e621b57040",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmCuLYe8xraO2RgWUBaiK8M5qUExAtyfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
